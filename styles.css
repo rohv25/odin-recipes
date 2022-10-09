@@ -1,0 +1,24 @@
+* {
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    color:cadetblue;
+}
+
+ul {
+    list-style-type: square;
+    font-size: large;
+    color: black;
+}
+
+.recipes {
+    font-weight: bolder;
+    color: coral;
+}
+
+a {
+    color: brown;
+}
